@@ -1,0 +1,22 @@
+{
+  "name": "tea-project2",
+  "version": "1.0.0",
+  "description": "Demo Tea app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Onef11/tea-project2.git"
+  },
+  "dependencies": {
+    "tea-npm-serg": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Onef11/tea-project2/issues"
+  },
+  "homepage": "https://github.com/Onef11/tea-project2#readme"
+}

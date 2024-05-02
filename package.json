@@ -1,6 +1,6 @@
 {
   "name": "tea-project2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Demo Tea app",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,22 @@
     "url": "https://github.com/Onef11/tea-project2.git"
   },
   "dependencies": {
-    "tea-npm-serg": "1.0.0"
+    "tea-npm-serg": "1.0.0",
+    "tea-start": "1.0.0",
+    "tea-rep": "1.0.0",
+    "tea-fivek": "1.0.0",
+    "tea-sixen": "1.0.0",
+    "tea-serv": "1.0.0",
+    "tea-dem-pr": "1.0.0",
+    "tea-nigty": "1.0.0",
+    "tea-tent-ser": "1.0.0",
+    "tea-sort-app": "1.0.0",
+    "tea-serv-app": "1.0.0",
+    "tea-eightyl": "1.0.0",
+    "tea-nigty-app": "1.0.0",
+    "tea-tent-ser-app": "1.0.0",
+    "tea-project-sample-one": "1.0.0",
+    "tea-onef": "1.0.1"
   },
   "author": "",
   "license": "ISC",
